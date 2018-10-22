@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<session version="1.0">
+<refactoring comment="Rename package &apos;proceso&apos; to &apos;ejemplos&apos;&#x0D;&#x0A;- Original project: &apos;Procesos&apos;&#x0D;&#x0A;- Original element: &apos;Procesos/src/proceso&apos;&#x0D;&#x0A;- Renamed element: &apos;Procesos/src/ejemplos&apos;&#x0D;&#x0A;- Update references to refactored element&#x0D;&#x0A;- Update textual occurrences in comments and strings" description="Rename package &apos;proceso&apos;" flags="589830" hierarchical="false" id="org.eclipse.jdt.ui.rename.package" input="/src&lt;proceso" name="ejemplos" qualified="false" references="true" stamp="1539774664765" textual="false" version="1.0"/>
+</session>
