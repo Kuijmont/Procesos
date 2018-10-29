@@ -42,7 +42,7 @@ public class AleatorioMain {
         
         try
         {        
-            proceso = Runtime.getRuntime().exec("java -jar act3exe.jar");
+            proceso = Runtime.getRuntime().exec("java -jar act2exe.jar");
         
              //  stream de salida del programa hijo
              InputStream inpst = proceso.getInputStream();
