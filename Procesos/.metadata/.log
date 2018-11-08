@@ -297,3 +297,6 @@ Contains: File already exists on disk: I:\2DAM\Git\Procesos\Procesos\Procesos\sr
 !MESSAGE Problems encountered while moving resources.
 !SUBENTRY 3 org.eclipse.core.filesystem 4 268 2018-11-05 13:11:53.838
 !MESSAGE File already exists on disk: I:\2DAM\Git\Procesos\Procesos\Procesos\src\ejerciciosUT1\ConvertirMayuscula.java.
+
+!ENTRY org.eclipse.equinox.p2.metadata.repository 4 1000 2018-11-05 14:09:12.226
+!MESSAGE No repository found at http://download.eclipse.org/windowbuilder/WB/integration/4.7/.
