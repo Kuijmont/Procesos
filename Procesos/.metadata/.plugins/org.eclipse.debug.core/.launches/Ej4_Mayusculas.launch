@@ -1,12 +1,12 @@
 <?xml version="1.0" encoding="UTF-8" standalone="no"?>
 <launchConfiguration type="org.eclipse.jdt.launching.localJavaApplication">
 <listAttribute key="org.eclipse.debug.core.MAPPED_RESOURCE_PATHS">
-<listEntry value="/Procesos/src/sol4/Ej4_Mayusculas.java"/>
+<listEntry value="/Procesos_UT1/src/sol4/Ej4_Mayusculas.java"/>
 </listAttribute>
 <listAttribute key="org.eclipse.debug.core.MAPPED_RESOURCE_TYPES">
 <listEntry value="1"/>
 </listAttribute>
 <stringAttribute key="org.eclipse.jdt.launching.MAIN_TYPE" value="sol4.Ej4_Mayusculas"/>
 <stringAttribute key="org.eclipse.jdt.launching.PROGRAM_ARGUMENTS" value="java -jar I:\2DAM\Git\Procesos\Procesos\Procesos\src\aMayus.jar"/>
-<stringAttribute key="org.eclipse.jdt.launching.PROJECT_ATTR" value="Procesos"/>
+<stringAttribute key="org.eclipse.jdt.launching.PROJECT_ATTR" value="Procesos_UT1"/>
 </launchConfiguration>
