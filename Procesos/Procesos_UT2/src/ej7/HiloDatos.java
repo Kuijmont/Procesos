@@ -5,9 +5,9 @@ package ej7;
  * qué base y qué altura recibió y cuál es el área resultado.
  */
 public class HiloDatos extends Thread{
-	int a,b;
+	double a,b;
 
-	public HiloDatos(int a, int b) {
+	public HiloDatos(double a, double b) {
 		super();
 		this.a = a;
 		this.b = b;
@@ -16,7 +16,7 @@ public class HiloDatos extends Thread{
 	@Override
 	public void run() {
 		
-			System.out.println("Área "+a+" :"+ b*a/2);
+			System.out.println("Área "+(int)a+" :"+ b*a/2);
 		
 	}
 }
