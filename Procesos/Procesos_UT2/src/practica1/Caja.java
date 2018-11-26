@@ -13,7 +13,7 @@ public class Caja {
 		long tinicial = System.currentTimeMillis();
 		GregorianCalendar gc = new GregorianCalendar();
 		
-		System.out.println("Tiempo inicial: "+);
+		System.out.println("Tiempo inicial: ");
 //		for (int i = 1; i < 4; i++) {
 //			new Cliente(cliente+i,i).start();
 //		}
