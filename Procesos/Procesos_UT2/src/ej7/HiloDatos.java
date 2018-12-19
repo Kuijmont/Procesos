@@ -15,8 +15,6 @@ public class HiloDatos extends Thread{
 	}
 	@Override
 	public void run() {
-		
 			System.out.println("Área "+(int)a+" :"+ b*a/2);
-		
 	}
 }

@@ -11,4 +11,8 @@
 <fullyQualifiedTypeName name="java.util.Random"/>
 <fullyQualifiedTypeName name="practica1.Cliente"/>
 <fullyQualifiedTypeName name="java.util.GregorianCalendar"/>
+<fullyQualifiedTypeName name="ejemplos.Saludo"/>
+<fullyQualifiedTypeName name="java.util.concurrent.Semaphore"/>
+<fullyQualifiedTypeName name="ejemplos.Niño"/>
+<fullyQualifiedTypeName name="ejemplos.Mama"/>
 </qualifiedTypeNameHistroy>

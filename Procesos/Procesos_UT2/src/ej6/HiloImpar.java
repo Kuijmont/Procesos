@@ -1,9 +1,6 @@
 package ej6;
 
 public class HiloImpar implements Runnable{
-
-
-
 	
 	@Override
 	public void run() {
