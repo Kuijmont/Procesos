@@ -17,7 +17,7 @@ public class Ejer3B {
 			serverSocket.bind(addr);
 			// Aceptando conexiones
 			Socket newSocket = serverSocket.accept();
-			System.out.println("ConexiÃ³n recibida");
+			System.out.println("Conexión recibida");
 			InputStream is = newSocket.getInputStream();
 			BufferedReader br = new BufferedReader(new InputStreamReader(is));
 			String line = br.readLine();
