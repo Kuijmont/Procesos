@@ -20,7 +20,7 @@ public class Conectar {
 		try {
 			System.out.print("Conectando a servidor...");
 			cliente.connect("localhost",21);
-			cliente.login("anonymous","");
+			cliente.login("mortadelo","");
 			System.out.print("Conectado\n");
 		} catch (IOException e) {
 			System.out.println("No ha sido posible conectar. Saliendo...");
